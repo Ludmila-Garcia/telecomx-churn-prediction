@@ -38,5 +38,6 @@ O objetivo é construir modelos preditivos capazes de identificar clientes com m
 ## 👩‍💻 Autora
 **Ludmila Garcia**  
 [GitHub](https://github.com/Ludmila-Garcia)  
-[LinkedIn]([https://www.linkedin.com/in/ludmila-garcia/)
+[LinkedIn](https://www.linkedin.com/in/ludmila-garcia/)
+
 
